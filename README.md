@@ -3,8 +3,7 @@
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
 </p>
 
-<p>Learn how to improve your code with Github Copilot</p>
-
+> Learn how to improve your code with Github Copilot
 
 ## 🏠 [Homepage](https://github.com/jellydn/copilot-tips)
 
@@ -32,6 +31,16 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
+## Contributing
+
+We welcome contributions to the project! If you have a good video or tip about Github Copilot that you would like to share, please submit a pull request. Make sure to include a brief description and a link to the video or tip in the pull request. Please also ensure that your contribution adheres to the project's code of conduct.
+
+For example:
+
+```js
+<Player videoId="gRNo_JOl-9g" title="Github Copilot - Q&A" />
+```
 
 ## Author
 
