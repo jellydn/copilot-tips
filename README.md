@@ -3,6 +3,9 @@
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
 </p>
 
+<p>Learn how to improve your code with Github Copilot</p>
+
+
 ## 🏠 [Homepage](https://github.com/jellydn/copilot-tips)
 
 ### ✨ [Demo](https://copilot-tips.productsway.com/)
@@ -29,6 +32,14 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
+## Author
+
+👤 **Huynh Duc Dung**
+
+- Website: https://productsway.com/
+- Twitter: [@jellydn](https://twitter.com/jellydn)
+- Github: [@jellydn](https://github.com/jellydn)
 
 ## Show your support
 
