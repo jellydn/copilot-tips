@@ -5,6 +5,8 @@
 
 > Learn how to improve your code with Github Copilot
 
+[![IT Man - Tip #31 - Brush you code with Copilot [Vietnamese]](https://i.ytimg.com/vi/CBk5yWSE_Tw/hqdefault.jpg)](https://www.youtube.com/watch?v=CBk5yWSE_Tw)
+
 ## 🏠 [Homepage](https://github.com/jellydn/copilot-tips)
 
 ### ✨ [Demo](https://copilot-tips.productsway.com/)
