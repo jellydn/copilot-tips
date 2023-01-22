@@ -1,5 +1,11 @@
 <script>
+	/**
+	 * @type {string}
+	 */
 	export let videoId;
+	/**
+	 * @type {string}
+	 */
 	export let title;
 	const thumbnail = `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`;
 </script>
