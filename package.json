@@ -14,11 +14,11 @@
 		"test:unit": "vitest"
 	},
 	"devDependencies": {
-		"@sveltejs/adapter-auto": "2.1.0",
-		"@sveltejs/kit": "1.27.2",
+		"@sveltejs/adapter-auto": "2.1.1",
+		"@sveltejs/kit": "1.27.3",
 		"@typescript-eslint/eslint-plugin": "5.62.0",
 		"@typescript-eslint/parser": "5.62.0",
-		"eslint": "8.52.0",
+		"eslint": "8.53.0",
 		"eslint-config-prettier": "8.10.0",
 		"eslint-plugin-svelte3": "4.0.0",
 		"prettier": "2.8.8",
